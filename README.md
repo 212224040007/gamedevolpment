@@ -1,4 +1,7 @@
+
 # EX 9 : IMAGE EDITING
+# Name: Abhishek kannan M
+# Reg no: 212224040007
 
 ## AIM:
 
@@ -51,3 +54,9 @@
 
 
 ## OUTPUT:
+
+<img width="1587" height="2245" alt="SAVEETHA ENGINEERING COLLEGE" src="https://github.com/user-attachments/assets/6a35d8b9-26a9-4d4b-8dff-d39228046486" />
+
+## RESULT:
+
+Thus to edit an image using an image editing software completed successfully.
